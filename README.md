@@ -1,2 +1,2 @@
 # Grid-CSS
-A grid layout website using HTML5 and CSS3
+A grid based responsive layout for a website using HTML5 and CSS3.
